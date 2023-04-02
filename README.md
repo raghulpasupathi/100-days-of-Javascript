@@ -1,2 +1,4 @@
 # 100-days-of-Javascript
-100 Javascript Projects 
+
+1. Counter App - add, subtract and reset options for a simple javascript counter
+ 
