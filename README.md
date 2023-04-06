@@ -7,3 +7,5 @@
 3. Random Hex Color Generator App
 
 4. Modal Popup App
+
+5. Palindrome Checker
