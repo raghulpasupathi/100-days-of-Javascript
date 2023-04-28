@@ -9,3 +9,5 @@
 4. Modal Popup App
 
 5. Palindrome Checker
+
+6. Vowel Counter
