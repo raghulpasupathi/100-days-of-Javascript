@@ -11,3 +11,5 @@
 5. Palindrome Checker
 
 6. Vowel Counter
+
+7. Click To Copy
