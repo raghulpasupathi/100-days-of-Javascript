@@ -13,3 +13,5 @@
 6. Vowel Counter
 
 7. Click To Copy
+
+8. Input Character Count
