@@ -15,3 +15,5 @@
 7. Click To Copy
 
 8. Input Character Count
+
+9. Geolocation App
