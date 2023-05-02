@@ -17,3 +17,5 @@
 8. Input Character Count
 
 9. Geolocation App
+
+10. HTTP calls
