@@ -19,3 +19,5 @@
 9. Geolocation App
 
 10. HTTP calls
+
+11. Random Quotes Generator App
