@@ -23,3 +23,5 @@
 11. Random Quotes Generator App
 
 12. List Search
+
+13. Internet Connection Status Detector
