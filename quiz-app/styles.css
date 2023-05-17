@@ -36,7 +36,7 @@ img {
 
 
 body {
-  background: var(--light-blue);
+  background: #00905b;
 }
 
 .container {
@@ -132,6 +132,11 @@ body {
   text-align: center;
   font-size: 2rem;
   margin-bottom: 4rem;
+}
+
+.quiz-repeat { 
+  text-align: center;
+  margin: 0 auto;
 }
 
 .quiz-repeat a{ 
